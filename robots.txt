@@ -1,0 +1,24 @@
+User-Agent: *
+Allow: /
+
+User-Agent: GPTBot
+User-Agent: ChatGPT-User
+User-Agent: OAI-SearchBot
+User-Agent: ClaudeBot
+User-Agent: anthropic-ai
+User-Agent: Claude-Web
+User-Agent: Claude-SearchBot
+User-Agent: PerplexityBot
+User-Agent: Perplexity-User
+User-Agent: Google-Extended
+User-Agent: GoogleOther
+User-Agent: Applebot-Extended
+User-Agent: meta-externalagent
+User-Agent: Meta-ExternalFetcher
+User-Agent: Bytespider
+User-Agent: cohere-ai
+User-Agent: Diffbot
+User-Agent: facebookexternalhit
+Allow: /
+
+Sitemap: https://vino-costa.com/sitemap.xml

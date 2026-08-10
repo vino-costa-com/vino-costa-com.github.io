@@ -1,0 +1,20 @@
+1:"$Sreact.fragment"
+3:I[38488,["/_next/static/chunks/213z_l27gar4o.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+8:I[38488,["/_next/static/chunks/213z_l27gar4o.js"],"ViewportBoundary"]
+9:I[38488,["/_next/static/chunks/213z_l27gar4o.js"],"MetadataBoundary"]
+b:I[22706,["/_next/static/chunks/213z_l27gar4o.js"],"default"]
+c:I[13160,["/_next/static/chunks/213z_l27gar4o.js"],"default"]
+:HL["/_next/static/chunks/1tou3ss07k_dx.css","style"]
+:HL["/_next/static/chunks/2r209t20zvotf.css","style"]
+7:X
+0:{"buildId":"D2pnRxRgmQDmtamPglfit","data":[{"rsc":["$","$1","c",{"children":["$L2",null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":"$@6","staleTime":"$7","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$L8",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","div",null,{"hidden":true,"children":["$","$L9",null,{"children":["$","$4",null,{"name":"Next.Metadata","children":[["$","link","0",{"rel":"manifest","href":"/manifest.webmanifest"}]]}]}]}],null]}],"isPartial":"$@a","staleTime":"$7","varyParams":null},{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/chunks/1tou3ss07k_dx.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/chunks/2r209t20zvotf.css","precedence":"next"}],["$","script","script-0",{"src":"/_next/static/chunks/213z_l27gar4o.js","async":true}]],["$","$Lb",null,{"parallelRouterKey":"children","template":["$","$Lc",null,{}],"notFound":[["$","html",null,{"lang":"en","data-theme":"dark","children":[["$","head",null,{"children":[["$","title",null,{"children":"Page not found | vino-costa"}],["$","meta",null,{"name":"robots","content":"noindex,follow"}]]}],["$","body",null,{"children":["$","section",null,{"className":"status-page","children":["$","div",null,{"className":"empty-state empty-state--error","children":[["$","div",null,{"className":"empty-state__num","children":"404"}],["$","div",null,{"className":"empty-state__title","children":"This page slipped off the map"}],["$","div",null,{"className":"empty-state__desc","children":"The address you opened doesn't match anything on the site. Maybe the link got mangled along the way, or the page has moved."}],["$","a",null,{"className":"btn btn-primary btn-primary--w-auto","href":"/","children":"← Back to home"}]]}]}]}]]}],[]]}]]}],"isPartial":"$@d","staleTime":"$7","varyParams":null}],"isUpgradeableISRFallback":false,"a":"$@e","rootVaryParams":null,"needsRuntimeRequest":"$@f"}
+2:E{"digest":"NEXT_REDIRECT;replace;/en;307;"}
+5:null
+7:300
+f:true
+7:C
+e:0
+a:"$undefined"
+d:"$undefined"
+6:"$undefined"

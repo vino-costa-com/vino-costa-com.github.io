@@ -1,0 +1,62 @@
+1:"$Sreact.fragment"
+2:I[31566,["/_next/static/chunks/213z_l27gar4o.js","/_next/static/chunks/3l6gu76jus7y7.js","/_next/static/chunks/08xli034n75cw.js","/_next/static/chunks/0g86eg54_4e7c.js","/_next/static/chunks/0r0tf9vsqfola.js","/_next/static/chunks/2w15dm_7hvfuu.js"],"SitePage"]
+4:I[21536,["/_next/static/chunks/213z_l27gar4o.js","/_next/static/chunks/3l6gu76jus7y7.js","/_next/static/chunks/08xli034n75cw.js","/_next/static/chunks/0g86eg54_4e7c.js","/_next/static/chunks/0r0tf9vsqfola.js","/_next/static/chunks/2w15dm_7hvfuu.js"],"ProjectsView"]
+5:I[38488,["/_next/static/chunks/213z_l27gar4o.js"],"OutletBoundary"]
+6:"$Sreact.suspense"
+a:I[38488,["/_next/static/chunks/213z_l27gar4o.js"],"ViewportBoundary"]
+b:I[38488,["/_next/static/chunks/213z_l27gar4o.js"],"MetadataBoundary"]
+3:T45b,{"@context":"https://schema.org","@type":"CollectionPage","name":"Projects","description":"Personal projects, open source and educational content outside client work.","url":"https://vino-costa.com/projects/","inLanguage":"en","isPartOf":{"@id":"https://vino-costa.com/#website"},"mainEntity":{"@type":"ItemList","numberOfItems":6,"itemListElement":[{"@type":"ListItem","position":1,"name":"Cyberpunk UI Kit","url":"https://vino-costa.com/projects/cyberpunk-ui-kit/"},{"@type":"ListItem","position":2,"name":"Generative NFT avatars","url":"https://vino-costa.com/projects/generative-avatars/"},{"@type":"ListItem","position":3,"name":"A Telegram channel on Web3 design","url":"https://vino-costa.com/projects/telegram-channel/"},{"@type":"ListItem","position":4,"name":"Figma token-sync plugin","url":"https://vino-costa.com/projects/figma-token-sync/"},{"@type":"ListItem","position":5,"name":"A neon weather dashboard","url":"https://vino-costa.com/projects/neon-weather/"},{"@type":"ListItem","position":6,"name":"A tutorial series on design sprints","url":"https://vino-costa.com/projects/sprint-tutorials/"}]}}9:X
+36:X
+36:C
+0:{"buildId":"D2pnRxRgmQDmtamPglfit","data":[{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"current":"portfolio","children":[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$3"}}],["$","$L4",null,{"items":[{"id":"cyberpunk-ui-kit","meta":"Open Source","title":"Cyberpunk UI Kit","description":"A personal library of neon components: tokens, glassmorphism, dark theme. A sandbox for the brand style.","href":"/projects/cyberpunk-ui-kit","linkLabel":"Learn more →"},{"id":"generative-avatars","meta":"Experiment","title":"Generative NFT avatars","description":"A pet project: procedural generation of cyberpunk portraits + a mint page for testnet.","href":"/projects/generative-avatars","linkLabel":"Learn more →"},{"id":"telegram-channel","meta":"Content","title":"A Telegram channel on Web3 design","description":"Breakdowns of crypto product interfaces, UX-audit guides, behind the scenes of sprints.","href":"/projects/telegram-channel","linkLabel":"Learn more →"},{"id":"figma-token-sync","meta":"Tooling","title":"Figma token-sync plugin","description":"A utility: export design tokens from Figma to CSS variables. A bridge between design and code.","href":"/projects/figma-token-sync","linkLabel":"Learn more →"},{"id":"neon-weather","meta":"Experiment","title":"A neon weather dashboard","description":"A learning front-end: animations, glass cards, dark theme. Polishing micro-interactions.","href":"/projects/neon-weather","linkLabel":"Learn more →"},{"id":"sprint-tutorials","meta":"Content","title":"A tutorial series on design sprints","description":"Videos and articles: how to take a startup idea to a clickable prototype in a week.","href":"/projects/sprint-tutorials","linkLabel":"Learn more →"}],"copy":{"breadcrumbs":[{"label":"Home","href":"/"},{"label":"Projects"}],"eyebrow":"Personal projects","title":"Experiments, open source and content","subtitle":"What I make outside client work: pet projects, design tools and educational content about Web3."}}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/0r0tf9vsqfola.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/2w15dm_7hvfuu.js","async":true}]],["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]]}],"isPartial":"$@8","staleTime":"$9","varyParams":null},{"rsc":["$","$1","h",{"children":[null,["$","$La",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","2",{"name":"theme-color","content":"#212429"}]]}],["$","div",null,{"hidden":true,"children":["$","$Lb",null,{"children":["$","$6",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Projects | vino-costa"}],"$Lc","$Ld","$Le","$Lf","$L10","$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18","$L19","$L1a","$L1b","$L1c","$L1d","$L1e","$L1f","$L20","$L21","$L22","$L23","$L24","$L25","$L26","$L27","$L28","$L29","$L2a","$L2b","$L2c","$L2d","$L2e","$L2f","$L30","$L31","$L32"]}]}]}],null]}],"isPartial":"$@33","staleTime":"$9","varyParams":null},{"rsc":"$L34","isPartial":"$@35","staleTime":"$9","varyParams":"$36"}],"isUpgradeableISRFallback":false,"a":"$@37","rootVaryParams":null,"needsRuntimeRequest":"$@38"}
+39:I[63048,["/_next/static/chunks/213z_l27gar4o.js"],"IconMark"]
+3a:I[22706,["/_next/static/chunks/213z_l27gar4o.js"],"default"]
+3b:I[13160,["/_next/static/chunks/213z_l27gar4o.js"],"default"]
+7:null
+c:["$","meta","1",{"name":"description","content":"Personal projects, open source and educational content outside client work."}]
+d:["$","meta","2",{"name":"application-name","content":"vino-costa"}]
+e:["$","link","3",{"rel":"author","href":"https://vino-costa.com"}]
+f:["$","meta","4",{"name":"author","content":"@vino_costa"}]
+10:["$","link","5",{"rel":"manifest","href":"/manifest.webmanifest"}]
+11:["$","meta","6",{"name":"creator","content":"@vino_costa"}]
+12:["$","meta","7",{"name":"publisher","content":"vino-costa"}]
+13:["$","meta","8",{"name":"robots","content":"index, follow"}]
+14:["$","meta","9",{"name":"googlebot","content":"index, follow"}]
+15:["$","meta","10",{"name":"msapplication-config","content":"/browserconfig.xml"}]
+16:["$","meta","11",{"name":"msapplication-TileColor","content":"#212429"}]
+17:["$","meta","12",{"name":"msapplication-TileImage","content":"/ms-icon-144x144.png"}]
+18:["$","link","13",{"rel":"canonical","href":"https://vino-costa.com/projects/"}]
+19:["$","link","14",{"rel":"alternate","hrefLang":"en","href":"https://vino-costa.com/projects/"}]
+1a:["$","link","15",{"rel":"alternate","hrefLang":"ru","href":"https://vino-costa.com/ru/projects/"}]
+1b:["$","link","16",{"rel":"alternate","hrefLang":"x-default","href":"https://vino-costa.com/projects/"}]
+1c:["$","meta","17",{"property":"og:title","content":"Projects | vino-costa"}]
+1d:["$","meta","18",{"property":"og:description","content":"Personal projects, open source and educational content outside client work."}]
+1e:["$","meta","19",{"property":"og:url","content":"https://vino-costa.com/projects/"}]
+1f:["$","meta","20",{"property":"og:site_name","content":"vino-costa"}]
+20:["$","meta","21",{"property":"og:locale","content":"en_US"}]
+21:["$","meta","22",{"property":"og:image","content":"https://vino-costa.com/og.png"}]
+22:["$","meta","23",{"property":"og:image:width","content":"1200"}]
+23:["$","meta","24",{"property":"og:image:height","content":"630"}]
+24:["$","meta","25",{"property":"og:image:alt","content":"Projects | vino-costa"}]
+25:["$","meta","26",{"property":"og:locale:alternate","content":"ru_RU"}]
+26:["$","meta","27",{"property":"og:type","content":"website"}]
+27:["$","meta","28",{"name":"twitter:card","content":"summary_large_image"}]
+28:["$","meta","29",{"name":"twitter:title","content":"Projects | vino-costa"}]
+29:["$","meta","30",{"name":"twitter:description","content":"Personal projects, open source and educational content outside client work."}]
+2a:["$","meta","31",{"name":"twitter:image","content":"https://vino-costa.com/og.png"}]
+2b:["$","meta","32",{"name":"twitter:image:alt","content":"Projects | vino-costa"}]
+2c:["$","meta","33",{"name":"twitter:image:width","content":"1200"}]
+2d:["$","meta","34",{"name":"twitter:image:height","content":"630"}]
+2e:["$","link","35",{"rel":"icon","href":"/favicon.ico","sizes":"any"}]
+2f:["$","link","36",{"rel":"icon","href":"/favicon-16x16.png","type":"image/png","sizes":"16x16"}]
+30:["$","link","37",{"rel":"icon","href":"/favicon-32x32.png","type":"image/png","sizes":"32x32"}]
+31:["$","link","38",{"rel":"apple-touch-icon","href":"/apple-icon-180x180.png","type":"image/png","sizes":"180x180"}]
+32:["$","$L39","39",{}]
+34:["$","$1","c",{"children":[null,["$","$L3a",null,{"parallelRouterKey":"children","template":["$","$L3b",null,{}]}]]}]
+38:true
+9:300
+9:C
+37:0
+33:"$undefined"
+35:"$undefined"
+8:"$undefined"

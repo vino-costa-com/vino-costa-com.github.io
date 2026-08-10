@@ -1,0 +1,500 @@
+# vino-costa — vino-costa.com (full text)
+
+> Senior Product Designer · Web3 · iGaming · AI · Fintech. @vino_costa — https://vino-costa.com
+
+Canonical text of the public pages of vino-costa.com, aggregated for LLM agents. Generated 2026-08-10 from the same content tree the site renders.
+
+---
+
+## Sections
+
+- [Services](https://vino-costa.com/services/)
+- [Portfolio](https://vino-costa.com/portfolio/)
+- [Blog](https://vino-costa.com/blog/)
+- [About](https://vino-costa.com/about/)
+- [Contact](https://vino-costa.com/contact/)
+
+---
+
+## Services
+
+### UX/UI audit
+
+Source: https://vino-costa.com/services/ux-audit/
+
+A rapid interface review + a polished report with a payment link.
+
+An express review of your product: where users stumble, what hurts conversion, which screens are overcomplicated.
+
+#### What is included
+
+- scope of work agreed in the brief
+- deliverables handed over at the end
+- support during implementation
+
+#### How it runs
+
+Steps and what you get at each one.
+
+---
+
+### Trial Week
+
+Source: https://vino-costa.com/services/trial-week/
+
+A full-time week-long design sprint — the flagship offer.
+
+One senior designer, fully focused on your product for a week — from flows to investor-ready UI.
+
+#### What is included
+
+- scope of work agreed in the brief
+- deliverables handed over at the end
+- support during implementation
+
+#### How it runs
+
+Steps and what you get at each one.
+
+---
+
+### Redesign
+
+Source: https://vino-costa.com/services/redesign/
+
+Site → audit → design system → new design.
+
+A full cycle for products that outgrew their first interface.
+
+#### What is included
+
+- scope of work agreed in the brief
+- deliverables handed over at the end
+- support during implementation
+
+#### How it runs
+
+Steps and what you get at each one.
+
+---
+
+### Monthly support
+
+Source: https://vino-costa.com/services/monthly-support/
+
+All-inclusive startup design support.
+
+An embedded designer on subscription: product, marketing, iterations — every week.
+
+#### What is included
+
+- scope of work agreed in the brief
+- deliverables handed over at the end
+- support during implementation
+
+#### How it runs
+
+Steps and what you get at each one.
+
+---
+
+## Portfolio (case studies)
+
+### Roobinium crypto wallet
+
+Source: https://vino-costa.com/portfolio/roobinium-wallet/
+
+A fail-safe wallet: onboarding, seed flow, multichain balance. Neon + glassmorphism, dark theme.
+
+The team was launching a multichain wallet and needed design from idea to release — onboarding that does not scare newcomers and a seed flow that feels safe.
+
+#### What I did
+
+- UX audit of the existing flow and a prioritized issue list
+- Key screens designed around trust and clarity
+- Design system handed over: tokens, components, states
+
+#### Result
+
+Metrics and feedback go here once the case is written up in full.
+
+---
+
+### DeFi yield dashboard
+
+Source: https://vino-costa.com/portfolio/defi-dashboard/
+
+Staking, liquidity pools, APY charts. Dense analytics without clutter, built for traders.
+
+Traders needed density without noise: many numbers on one screen, each readable at a glance.
+
+#### What I did
+
+- UX audit of the existing flow and a prioritized issue list
+- Key screens designed around trust and clarity
+- Design system handed over: tokens, components, states
+
+#### Result
+
+Metrics and feedback go here once the case is written up in full.
+
+---
+
+### UFO Gaming game landing
+
+Source: https://vino-costa.com/portfolio/ufo-gaming/
+
+A play-to-earn promo: cyberpunk art, tokenomics, a whitelist call to action. 2M+ visits at peak.
+
+A launch landing that had to survive a traffic spike and still convert visitors into whitelist signups.
+
+#### What I did
+
+- UX audit of the existing flow and a prioritized issue list
+- Key screens designed around trust and clarity
+- Design system handed over: tokens, components, states
+
+#### Result
+
+Metrics and feedback go here once the case is written up in full.
+
+---
+
+### Lunar Labs crypto banking
+
+Source: https://vino-costa.com/portfolio/lunar-labs/
+
+A mobile bank for crypto cards: transfers, limits, conversion. Premium UI, dark neon.
+
+Crypto cards for everyday spending — the interface had to feel like a bank, not like a terminal.
+
+#### What I did
+
+- UX audit of the existing flow and a prioritized issue list
+- Key screens designed around trust and clarity
+- Design system handed over: tokens, components, states
+
+#### Result
+
+Metrics and feedback go here once the case is written up in full.
+
+---
+
+### Rental tokenization (RWA on-chain)
+
+Source: https://vino-costa.com/portfolio/rwa-rental/
+
+UX/UI for real-world assets on-chain: property listings, shares, payouts. Case breakdown.
+
+Real-world assets on-chain: the hard part was making fractional ownership understandable to people outside crypto.
+
+#### What I did
+
+- UX audit of the existing flow and a prioritized issue list
+- Key screens designed around trust and clarity
+- Design system handed over: tokens, components, states
+
+#### Result
+
+Metrics and feedback go here once the case is written up in full.
+
+---
+
+### NFT collections marketplace
+
+Source: https://vino-costa.com/portfolio/nft-marketplace/
+
+Showcase, mint, auctions, creator profile. Focused on the art and fast gallery browsing.
+
+A marketplace where the art comes first and the interface steps back.
+
+#### What I did
+
+- UX audit of the existing flow and a prioritized issue list
+- Key screens designed around trust and clarity
+- Design system handed over: tokens, components, states
+
+#### Result
+
+Metrics and feedback go here once the case is written up in full.
+
+---
+
+### DAO governance portal
+
+Source: https://vino-costa.com/portfolio/dao-portal/
+
+Proposals, quorum, vote delegation. Transparent analytics for the community treasury.
+
+Governance only works when people can see what they are voting on — the portal had to make quorum and treasury legible.
+
+#### What I did
+
+- UX audit of the existing flow and a prioritized issue list
+- Key screens designed around trust and clarity
+- Design system handed over: tokens, components, states
+
+#### Result
+
+Metrics and feedback go here once the case is written up in full.
+
+---
+
+### Crypto startup identity
+
+Source: https://vino-costa.com/portfolio/crypto-identity/
+
+Logo, token palette, guidelines and a set of launch marketing banners.
+
+A full identity built for launch: one visual language across product, site and campaign creatives.
+
+#### What I did
+
+- UX audit of the existing flow and a prioritized issue list
+- Key screens designed around trust and clarity
+- Design system handed over: tokens, components, states
+
+#### Result
+
+Metrics and feedback go here once the case is written up in full.
+
+---
+
+### Exchange terminal UX audit
+
+Source: https://vino-costa.com/portfolio/exchange-audit/
+
+A rapid review of a trading interface: heatmaps, a report and conversion recommendations.
+
+An express review of a trading terminal: where users stumble and what it costs in conversion.
+
+#### What I did
+
+- UX audit of the existing flow and a prioritized issue list
+- Key screens designed around trust and clarity
+- Design system handed over: tokens, components, states
+
+#### Result
+
+Metrics and feedback go here once the case is written up in full.
+
+---
+
+## Projects
+
+### Cyberpunk UI Kit
+
+Source: https://vino-costa.com/projects/cyberpunk-ui-kit/
+
+A personal library of neon components: tokens, glassmorphism, dark theme. A sandbox for the brand style.
+
+A sandbox where the brand style gets tested before it reaches client work.
+
+---
+
+### Generative NFT avatars
+
+Source: https://vino-costa.com/projects/generative-avatars/
+
+A pet project: procedural generation of cyberpunk portraits + a mint page for testnet.
+
+Procedural portraits and a mint page — an excuse to explore generative art end to end.
+
+---
+
+### A Telegram channel on Web3 design
+
+Source: https://vino-costa.com/projects/telegram-channel/
+
+Breakdowns of crypto product interfaces, UX-audit guides, behind the scenes of sprints.
+
+Interface breakdowns and sprint diaries, published as they happen.
+
+---
+
+### Figma token-sync plugin
+
+Source: https://vino-costa.com/projects/figma-token-sync/
+
+A utility: export design tokens from Figma to CSS variables. A bridge between design and code.
+
+A bridge between the design file and the codebase, so tokens stop drifting apart.
+
+---
+
+### A neon weather dashboard
+
+Source: https://vino-costa.com/projects/neon-weather/
+
+A learning front-end: animations, glass cards, dark theme. Polishing micro-interactions.
+
+A small front-end built to practise motion and glass surfaces.
+
+---
+
+### A tutorial series on design sprints
+
+Source: https://vino-costa.com/projects/sprint-tutorials/
+
+Videos and articles: how to take a startup idea to a clickable prototype in a week.
+
+The weekly sprint method, explained step by step for founders.
+
+---
+
+## Recommendations
+
+### Full redesign, soundstage.fm
+
+Source: https://vino-costa.com/recommendations/
+
+We hired @vino_costa for a complete redesign of our website and brand. After two weeks the results are in and we are absolutely thrilled — extreme attention to detail, methodical, and the designs come packaged in a complete visual framework. Highly recommended.
+
+
+
+---
+
+### DeFi dashboard readability
+
+Source: https://vino-costa.com/recommendations/
+
+Senior-level product thinking, not just pretty screens. The DeFi dashboard finally made our data readable for non-crypto users. Conversion on onboarding improved noticeably.
+
+
+
+---
+
+### Cyberpunk direction
+
+Source: https://vino-costa.com/recommendations/
+
+One of the best crypto designers out there. The cyberpunk direction was bold but never got in the way of usability. Shots speak for themselves.
+
+
+
+---
+
+### Game-launch landing in one sprint
+
+Source: https://vino-costa.com/recommendations/
+
+Fast, reliable and genuinely creative. Delivered a full game-launch landing in a single weekly sprint, with marketing banners on top. Will rehire.
+
+
+
+---
+
+### Embedded designer
+
+Source: https://vino-costa.com/recommendations/
+
+Clear weekly updates, zero hand-holding needed. Felt like an embedded designer on our team rather than an outside contractor.
+
+
+
+---
+
+### MVP to investor-ready
+
+Source: https://vino-costa.com/recommendations/
+
+He took our messy MVP and turned it into something investors immediately took seriously. The design system he left behind keeps paying off.
+
+
+
+---
+
+## Blog
+
+### Why a weekly design sprint beats a three-month contract
+
+Source: https://vino-costa.com/blog/weekly-design-sprint/
+
+How short cycles turn an idea into investor-ready UI without a black box in the middle.
+
+Most design contracts fail the same way: a long brief, weeks of silence, and a big reveal that misses the mark. A weekly sprint removes the silence — you see the work while it is still cheap to change.
+
+#### What a week actually contains
+
+Monday is the brief and the moodboard. Tuesday maps flows. Wednesday brings two or three concepts of the key screen. Thursday folds in your comments. Friday hands off files, a design system and a short report.
+
+- you approve direction on day three, not month three
+- every step leaves an artifact you can show your team
+- the scope for the next week is picked from what you learned in this one
+
+#### When it does not fit
+
+If the product needs months of research before a single screen makes sense, a sprint is the wrong tool. Sprints work when there is a concrete flow to ship — onboarding, a dashboard, a landing.
+
+---
+
+### How a UX audit boosts conversion
+
+Source: https://vino-costa.com/blog/ux-audit-conversion/
+
+What I check in an express interface audit and why it pays off faster than a redesign.
+
+An audit costs less than a redesign and almost always comes first: it shows what to fix and stops you rebuilding what already works.
+
+#### What I look at first
+
+The path to the target action, form friction, readability of the key numbers, and behaviour on a phone. Then the gaps between what the landing promises and what the product actually shows.
+
+- how many steps to the first useful action
+- where attention drops: long forms, unclear buttons, extra fields
+- whether the promise at the entrance matches the interface inside
+
+#### What you get
+
+A prioritized report: fix now, fix later, leave alone. Each item comes with a plain reason and an effort estimate.
+
+> An audit isn't about taste. It's about where people leave and what stops them.
+
+---
+
+### RWA on-chain: a rental design case
+
+Source: https://vino-costa.com/blog/rwa-onchain-case/
+
+UX/UI for tokenizing real-world assets — a breakdown from structure to the deal screen.
+
+Tokenizing real-world assets doesn't stall on the blockchain — it stalls on trust: people need to understand what exactly they own.
+
+#### The problem
+
+Show a share in a property so it reads without a glossary: what was bought, what it earns, when and how to exit.
+
+#### The solution
+
+An asset card with three numbers instead of ten, a payout calendar and a predictable exit path. Complexity moves into disclosure blocks so the first screen doesn't scare anyone off.
+
+- structure: property → share → income → exit
+- numbers large, terms next to them, fine print gone
+- deal states readable without contacting support
+
+---
+
+### Kaizen in design: continuous improvement
+
+Source: https://vino-costa.com/blog/kaizen-in-design/
+
+How a method of small constant improvements is built into the weekly sprint.
+
+A big once-a-year redesign almost always misses: by the time it ships, the product has moved on.
+
+#### Small steps instead of one big leap
+
+One measurable improvement a week: a screen, a flow, a component. The change ships, you watch the numbers, the next week is planned on the result.
+
+#### Why it works
+
+- a mistake costs a week, not a quarter
+- the team sees movement instead of waiting for the big reveal
+- the design system grows alongside the work, not as a separate project
+
+---
+
+## Contact
+
+- Telegram: https://t.me/vino_costa
+- Email: vinocostaweb3designer@gmail.com

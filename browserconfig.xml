@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Плитка сайта в меню «Пуск» Windows: набор квадратных иконок и цвет подложки.
+     Файл статический, а не роут: формат читает только плиточный движок Microsoft, значения в нём не зависят ни от локали, ни от контента.
+     Иконки не лежат файлами, а собираются растром из знака бренда на сборке — по одному роуту на размер рядом с `src/lib/brand-icon.tsx`. Адреса ниже совпадают с именами тех роутов.
+     Цвет плитки повторяет тёмный фон бренда (`brandColors.bgDark` в `@vino-costa/shared`) — импортировать токен в XML нечем, поэтому при смене фона значение правится здесь вручную. -->
+<browserconfig>
+  <msapplication>
+    <tile>
+      <square70x70logo src="/ms-icon-70x70.png"/>
+      <square150x150logo src="/ms-icon-150x150.png"/>
+      <square310x310logo src="/ms-icon-310x310.png"/>
+      <TileColor>#212429</TileColor>
+    </tile>
+  </msapplication>
+</browserconfig>

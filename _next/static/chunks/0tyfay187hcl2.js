@@ -1,0 +1,1 @@
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,4310,e=>{"use strict";var i=e.i(19806);e.i(66544);var t=e.i(47924),r=e.i(79083);e.s(["ServicesView",0,function({copy:e,ladder:o,faq:c}){return(0,i.jsx)(t.ServicesPage,{hero:e.hero,method:e.method,cta:e.cta,ladder:o,faq:{...e.faq,items:c},linkAs:r.KitLink})}])}]);
