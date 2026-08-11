@@ -1,8 +1,8 @@
 # vino-costa — vino-costa.com (full text)
 
-> Senior Product Designer · Web3 · iGaming · AI · Fintech. @vino_costa — https://vino-costa.com
+> Senior Product Designer · iGaming · AI · Fintech. @vino_costa — https://vino-costa.com
 
-Canonical text of the public pages of vino-costa.com, aggregated for LLM agents. Generated 2026-08-10 from the same content tree the site renders.
+Canonical text of the public pages of vino-costa.com, aggregated for LLM agents. Generated 2026-08-11 from the same content tree the site renders.
 
 ---
 
@@ -302,7 +302,7 @@ Procedural portraits and a mint page — an excuse to explore generative art end
 
 ---
 
-### A Telegram channel on Web3 design
+### A Telegram channel on design
 
 Source: https://vino-costa.com/projects/telegram-channel/
 

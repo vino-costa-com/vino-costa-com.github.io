@@ -1,5 +1,5 @@
 # vino-costa
-> Senior Product Designer · Web3 · iGaming · AI · Fintech. @vino_costa — https://vino-costa.com
+> Senior Product Designer · iGaming · AI · Fintech. @vino_costa — https://vino-costa.com
 ## Sections
 
 - [Services](https://vino-costa.com/services/)
@@ -31,7 +31,7 @@
 
 - [Cyberpunk UI Kit](https://vino-costa.com/projects/cyberpunk-ui-kit/): A personal library of neon components: tokens, glassmorphism, dark theme. A sandbox for the brand style.
 - [Generative NFT avatars](https://vino-costa.com/projects/generative-avatars/): A pet project: procedural generation of cyberpunk portraits + a mint page for testnet.
-- [A Telegram channel on Web3 design](https://vino-costa.com/projects/telegram-channel/): Breakdowns of crypto product interfaces, UX-audit guides, behind the scenes of sprints.
+- [A Telegram channel on design](https://vino-costa.com/projects/telegram-channel/): Breakdowns of crypto product interfaces, UX-audit guides, behind the scenes of sprints.
 - [Figma token-sync plugin](https://vino-costa.com/projects/figma-token-sync/): A utility: export design tokens from Figma to CSS variables. A bridge between design and code.
 - [A neon weather dashboard](https://vino-costa.com/projects/neon-weather/): A learning front-end: animations, glass cards, dark theme. Polishing micro-interactions.
 - [A tutorial series on design sprints](https://vino-costa.com/projects/sprint-tutorials/): Videos and articles: how to take a startup idea to a clickable prototype in a week.
